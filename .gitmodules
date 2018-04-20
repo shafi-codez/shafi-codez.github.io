@@ -1,3 +1,0 @@
-[submodule "themes/hugo"]
-	path = themes/hugo
-	url = git@github.com:gohugoio/hugo.git
